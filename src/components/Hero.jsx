@@ -74,10 +74,10 @@ function Hero({ countriesRef }) {
           <AutomaticCarousel
             images={[
               {
-                original: "/img/hero/5.png",
+                original: "/img/hero/h.png",
               },
               {
-                original: "/img/hero/2.png",
+                original: "/img/hero/y.png",
               }
             ]
             }
